@@ -1,0 +1,4 @@
+Brand: VW, Make: Polo, HP: 90, CC: 500
+Brand: Mini, Make: Countryman, HP: 130, CC: 1000
+Brand: Fiat, Make: Punto, HP: 60, CC: 400
+Brand: Skoda, Make: Fabia, HP: 150, CC: 1500
